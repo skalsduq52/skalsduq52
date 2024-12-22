@@ -20,7 +20,7 @@
        </div>
       <ul dir="auto">
         <li><a href="https://github.com/skalsduq52/side_lostark">편리한 로스트아크 생활을 위한 캐릭터 정보제공 서비스</a></li>
-        <li><a href="https://github.com/skalsduq52/side_pig">나의 소비생활 및 물가비교를 위한 가계부 서비스</a></li>
+        <li><a href="https://github.com/skalsduq52/side_pig">나의 소비생활 및 물가비교를 위한 가계부 앱 서비스</a></li>
       </ul>
     </li>
   </ul>
